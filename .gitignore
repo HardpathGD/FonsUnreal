@@ -75,3 +75,14 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+#Flakky Preset (на всякий пожарный)
+Saved/
+Intermediate/
+Build/
+Binaries/
+.vs/
+*.sln
+*.VC*
+DerivedDataCache/
